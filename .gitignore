@@ -1,0 +1,5 @@
+Minecraft_panel/__pycache__
+Minecraft_panel/server/*
+!Minecraft_panel/server/spigot-1.16.3.jar
+!Minecraft_panel/server/plugins
+!Minecraft_panel/server/start.bat
