@@ -23,10 +23,11 @@ Konieczne jest również aby na serwerze znajdował się gracz.
 ---
 ## 2. Korzystanie z aplikacji
 ![Minecraft oraz uruchomiony panel gracza](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pqpDuMCyeL9K93UqnMnbALZVrWNr5Tew2MrFPGk9-782PTSFps1-QGbPOkqp4ljX2xANZcMQcJLu3Zh--O-ANHkup2zA=w1879-h931)
-A. Kolejno trzy pola na koordynaty X, Y oraz Z. Po wprowadzeniu prawidłowych liczb i kliknięciu przycisku "Teleportuj" gracz zostanie przeniesiony na podane koordynaty.
 
-B. Lista z opcjami wyboru reprezentującymi odpowiednie moby i byty z gry Minecraft. Po wybraniu bytu i kliknięciu przyciskyu "Przywołaj moba/byt" na pozycji gracza pojawi się wybrany byt lub mob.
+    A. Kolejno trzy pola na koordynaty X, Y oraz Z. Po wprowadzeniu prawidłowych liczb i kliknięciu przycisku "Teleportuj" gracz zostanie przeniesiony na podane koordynaty.
 
-C. Lista z opcjami wyboru reprezentującymi odpowiednie bloki i obiekty z gry Minecraft. Po wybraniu opcji "Postaw blok" na pozycji gracza pojawi się wybrany blok lub obiekt.
+    B. Lista z opcjami wyboru reprezentującymi odpowiednie moby i byty z gry Minecraft. Po wybraniu bytu i kliknięciu przyciskyu "Przywołaj moba/byt" na pozycji gracza pojawi się wybrany byt lub mob.
 
-D. 4 pola tekstowe oraz przycisk "Pozostaw wiadomość". Pola tekstowe reprezentują linijki tekstu które pojawią się na tabliczce po jej postawieniu. Po kliknięciu przycisku na pozycji gracza pojawi się tabliczka z podanym tekstem zwrócona w stronę północną.
+    C. Lista z opcjami wyboru reprezentującymi odpowiednie bloki i obiekty z gry Minecraft. Po wybraniu opcji "Postaw blok" na pozycji gracza pojawi się wybrany blok lub obiekt.
+
+    D. 4 pola tekstowe oraz przycisk "Pozostaw wiadomość". Pola tekstowe reprezentują linijki tekstu które pojawią się na tabliczce po jej postawieniu. Po kliknięciu przycisku na pozycji gracza pojawi się tabliczka z podanym tekstem zwrócona w stronę północną.
